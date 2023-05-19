@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">login_app</string>
+
+    <string name="forgot_password"><b><u>Forgot password?</u></b></string>
+
+    <string name="create_account"><b><u>Create account</u></b></string>
+
+    <string name="sign_in"><b><u>Sign in instead</u></b></string>
+
+</resources>

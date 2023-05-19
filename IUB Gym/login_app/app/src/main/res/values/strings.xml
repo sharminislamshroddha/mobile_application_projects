@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">login_app</string>
+
+    <string name="forgot_password"><b><u>Forgot password?</u></b></string>
+
+    <string name="create_account"><b><u>Create account</u></b></string>
+
+    <string name="sign_in"><b><u>Sign in instead</u></b></string>
+
+    <string name="noticeBoard"><b><u>IUB Gym notice board</u></b></string>
+
+    <string name="applicationForm"><b><u>Student Application Form</u></b></string>
+
+    <string name="TermsAndConditions"><b><u>Terms and Conditions</u></b></string>
+
+    <string-array name="UserType">
+        <item>Admin</item>
+        <item>Student</item>
+        <item>Trainer</item>
+    </string-array>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="rules">>> No Tobacco\n\n>> No gum or food allowed\n\n>> No bare feet are allowed on the floor\n\n>> Shirts must be worn at all time\n\n>> Sand/Mud must be removed from shoes before entering the facilities\n\n>> One can use the gym on weekdays between 8am to 5pm for 1 hour</string>
+    <string name="title_activity_admin_home_page">AdminHomePage</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>

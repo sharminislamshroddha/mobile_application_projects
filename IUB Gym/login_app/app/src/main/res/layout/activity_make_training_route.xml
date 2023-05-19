@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MakeTrainingRoute"
+    android:background="@drawable/gym">
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"
+        android:text="Make Workout Plan"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bar"
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="3dp"
+        android:layout_below="@+id/login"
+        android:background="@color/white"/>
+
+    <EditText
+        android:id="@+id/userID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bar"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#30ffffff"
+        android:drawablePadding="20dp"
+        android:hint="User ID"
+        android:inputType="number"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userID"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="5dp"
+        android:text="Update the work-out plan here:"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/terms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit"
+        android:layout_marginLeft="10dp"
+        android:background="#30ffffff"
+        android:padding="15dp"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/savebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/terms"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#36869A"
+        android:text="Save" />
+
+
+</RelativeLayout>

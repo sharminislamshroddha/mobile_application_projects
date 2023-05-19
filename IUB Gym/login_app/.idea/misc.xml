@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/Assignment 3/login_app/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/Assignment 3/login_app/app/src/main/res/layout/activity_user_page.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_admin_home_page.xml" value="0.25" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_approve_application.xml" value="0.2" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_create_account.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_create_trainer_account.xml" value="0.25" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_forgot_password.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_make_training_route.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_notice_board.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_sign_up.xml" value="0.16" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_student_application_form.xml" value="0.25" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_student_home_page.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_take_student_attendance.xml" value="0.16898148148148148" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_terms_and_condition.xml" value="0.2" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_trainer_home_page.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_update_notice_board.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_update_terms_and_conditions.xml" value="0.22" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_upload_img_tmp.xml" value="0.2" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_user_page.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/activity_view_image_tmp.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/card.xml" value="0.22" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/IUB Gym/login_app/app/src/main/res/layout/drop_down_item.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/login_app/app/src/main/res/layout/activity_create_account.xml" value="0.12" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/login_app/app/src/main/res/layout/activity_forgot_password.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/login_app/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+        <entry key="..\:/Semester 2022/Summer 2022/mobile app/Shroddha/login_app/app/src/main/res/layout/activity_user_page.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/SHRODDHA/AndroidStudioProjects/login_app/app/src/main/res/layout/activity_create_account.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/SHRODDHA/AndroidStudioProjects/login_app/app/src/main/res/layout/activity_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHRODDHA/AndroidStudioProjects/login_app/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/SHRODDHA/AndroidStudioProjects/login_app/app/src/main/res/layout/activity_user_page.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

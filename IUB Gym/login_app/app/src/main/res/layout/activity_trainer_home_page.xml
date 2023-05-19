@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gym"
+    tools:context=".TrainerHomePage">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:id="@+id/layoutTop">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_marginRight="150dp"
+                android:id="@+id/username"
+                android:textSize="22sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ID"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_marginRight="100dp"
+                android:id="@+id/userID"
+                android:textSize="22sp"
+                />
+
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/logoutBtn"
+            android:layout_toLeftOf="@+id/signUpBtn"
+            android:text="Log out"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="#36869A"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutTop"
+        android:layout_marginTop="50dp">
+
+        <Button
+            android:id="@+id/approveApplication"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#36869A"
+            android:drawablePadding="10dp"
+            android:hint="Approve Application"
+            android:paddingLeft="20dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+        <Button
+            android:id="@+id/takeAttendance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/approveApplication"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#36869A"
+            android:drawablePadding="10dp"
+            android:hint="Take Attendance"
+            android:paddingLeft="20dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+        <Button
+            android:id="@+id/updateNoticeBoard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/takeAttendance"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#36869A"
+            android:drawablePadding="10dp"
+            android:hint="Update Notice Board"
+            android:paddingLeft="20dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+        <Button
+            android:id="@+id/training"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/updateNoticeBoard"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#36869A"
+            android:drawablePadding="10dp"
+            android:hint="Make Training Routine"
+            android:paddingLeft="20dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/toast_id"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="@string/toast"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+    <TextView
+        android:id="@+id/txv_id"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textAlignment="center"
+        android:textColor="#3F51B5"
+        android:textSize="96sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="256dp" />
+
+
+    <Button
+        android:id="@+id/count_id"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="@string/count"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-13dp"
+        tools:layout_editor_absoluteY="737dp" />
+</LinearLayout>
